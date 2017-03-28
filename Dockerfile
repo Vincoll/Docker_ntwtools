@@ -14,6 +14,7 @@ RUN apt-get update && apt-get install --no-install-recommends --no-install-sugge
       pv \
       openssl \
       tcpdump \
+      iputils-* \
       vim \
       wget \
        && apt-get purge && apt-get clean \
