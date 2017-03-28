@@ -18,7 +18,7 @@ Docker image with useful tools for Networking and Web Debug:
 
 ### Get into the container
 
-* `docker run -ti --entrypoint /bin/sh vincoll/webtools`
+* `docker run -ti --entrypoint /bin/sh vincoll/ntwtools`
 
 Or
 
