@@ -1,4 +1,4 @@
-# Network & Web tools
+# Network & Web debuging tools
 Docker image with useful tools for Networking and Web Debug:
 
 * apache2-utils
@@ -13,12 +13,13 @@ Docker image with useful tools for Networking and Web Debug:
 * openssl
 * traceroute
 * tcpdump
+* iputils-*
 * vim
 * wget
 
 ### Get into the container
 
-* `docker run -ti --entrypoint /bin/sh vincoll/ntwtools`
+* `docker run -ti --entrypoint /bin/bash vincoll/ntwtools`
 
 Or
 
