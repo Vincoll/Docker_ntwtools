@@ -13,6 +13,7 @@ RUN apt-get update && apt-get install --no-install-recommends --no-install-sugge
       nmap \
       pv \
       openssl \
+      tcpdump \
       vim \
       wget \
        && apt-get purge && apt-get clean \
