@@ -1,5 +1,5 @@
-# Webtools
-Docker image with useful tools:
+# Network & Web tools
+Docker image with useful tools for Networking and Web Debug:
 
 * apache2-utils
 * ca-certificates
@@ -11,6 +11,8 @@ Docker image with useful tools:
 * nmap
 * pv
 * openssl
+* traceroute
+* tcpdump
 * vim
 * wget
 
