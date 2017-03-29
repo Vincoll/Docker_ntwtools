@@ -1,6 +1,6 @@
-#docker build . --tag vcl-webtool
+#docker build . --tag vcl-ntwtools
 
-FROM debian:latest
+FROM debian:9
 RUN apt-get update && apt-get install --no-install-recommends --no-install-suggests -y \
       apache2-utils \
       ca-certificates \
