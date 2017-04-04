@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install --no-install-recommends --no-install-sugge
       curl \
       dnsutils \
       inetutils-traceroute \
+      iperf \
       git \
       netcat \
       nginx \
