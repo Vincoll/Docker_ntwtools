@@ -5,6 +5,8 @@ Docker image with useful tools for Networking and Web Debug:
 * ca-certificates
 * curl
 * dnsutils
+* iputils-*
+* iperf
 * git
 * netcat
 * nginx
@@ -13,7 +15,6 @@ Docker image with useful tools for Networking and Web Debug:
 * openssl
 * traceroute
 * tcpdump
-* iputils-*
 * vim
 * wget
 
