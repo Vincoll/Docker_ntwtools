@@ -9,6 +9,7 @@ RUN apt-get update && apt-get install --no-install-recommends --no-install-sugge
       inetutils-traceroute \
       iperf \
       git \
+      jq \
       netcat \
       nginx \
       nmap \
